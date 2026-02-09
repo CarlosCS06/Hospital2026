@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Paracetamol",
+        "via": "Oral"
+    },
+    {
+        "nombre": "Ibuprofeno",
+        "via": "Oral"
+    },
+    {
+        "nombre": "Penicilina",
+        "via": "Intravenosa"
+    },
+    {
+        "nombre": "Amoxicilina",
+        "via": "Oral"
+    },
+    {
+        "nombre": "Betadine",
+        "via": "Dérmica"
+    },
+    {
+        "nombre": "Salbutamol",
+        "via": "Inhalada"
+    }
+]

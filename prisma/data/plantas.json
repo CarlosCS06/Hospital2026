@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Traumatología",
+        "jefe_planta": "Dr. House"
+    },
+    {
+        "nombre": "Cardiología",
+        "jefe_planta": "Dra. Grey"
+    },
+    {
+        "nombre": "Neumología",
+        "jefe_planta": "Dr. Shaun Murphy"
+    },
+    {
+        "nombre": "Pediatría",
+        "jefe_planta": "Dr. Ross"
+    },
+    {
+        "nombre": "Ginecología",
+        "jefe_planta": "Dra. Addison Montgomery"
+    }
+]
